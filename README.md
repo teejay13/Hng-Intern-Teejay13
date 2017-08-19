@@ -5,7 +5,7 @@
 
 			Hello 
 
-			Stage 1 of Hotel Ng Remote Intership
+			Stage 1 of Hotel Ng Remote Internship
 			Name: Salako Adetunji Abduhaq
 
 	***************************************************************
